@@ -28,13 +28,13 @@ var ytAboutLayer = (function () {
 		txtTemplate.color = "white";
 
 		var txtList = [
-			"A: I wonder who the programmer of this game is?",
-			"Y: Me, I'm Ashutosh.",
-			"A: Ok, where is the material from?",
-			"Y: To be honest, the material is from the Internet. I think I need to say 'thanks' to these authors.",
-			"A: And would you mind tell me some technical information about this game?",
-			"Y: Sure. This game is based on HTML5 and HTML5 game engine lufylegend.js.",
-			"A: Oh~ That's interesting."
+			"You: I wonder who the programmer of this game is?",
+			"Me: Me, I'm Ashutosh.",
+			"You: Ok, where is the material from?",
+			"Me: To be honest, the material is from the Internet. I think I need to say 'thanks' to these authors.",
+			"You: And would you mind tell me some technical information about this game?",
+			"Me: Sure. This game is based on HTML5 and HTML5 game engine lufylegend.js.",
+			"You: Oh~ That's interesting. Ok Bye!!"
 		];
 
 		for (var k = 0; k < txtList.length; k++) {
