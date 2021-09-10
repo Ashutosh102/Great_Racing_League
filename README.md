@@ -11,3 +11,6 @@ A racing game created with HTML5 and JS engine
 ![Screenshot (571)](https://user-images.githubusercontent.com/75971776/132090644-b84ea2af-daae-413c-b7ad-d32cb4782ebd.png)
 ![Screenshot (572)](https://user-images.githubusercontent.com/75971776/132090647-2d354053-39cc-4d65-a57c-c2e43015b761.png)
 ![Screenshot (573)](https://user-images.githubusercontent.com/75971776/132090650-23b00d45-270e-4551-b9c1-d07be17bb7c9.png)
+## Phone UI
+![Screenshot_2021-09-10-23-36-43-82_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/75971776/132898827-aa288410-1893-4869-b41e-eeb33d9614a1.jpg)
+
